@@ -13,14 +13,14 @@ The computer randomly picks a number between 1 and 100, and you have to guess it
   - Correct!
 
 ## ✅ Example Run
-Welcome to the Number Guessing Game!
-I'm thinking of a number between 1 and 100.
-Enter your guess: 30
-Too low! Try again.
-Enter your guess: 70
-Too high! Try again.
-Enter your guess: 55
-Correct! You guessed it in 3 tries.
+ - Welcome to the Number Guessing Game!
+ - I'm thinking of a number between 1 and 100.
+ - Enter your guess: 30
+ - Too low! Try again.
+ - Enter your guess: 70
+ - Too high! Try again.
+ - Enter your guess: 55
+ - Correct! You guessed it in 3 tries.
 
 ## 💻 Technologies Used
 
